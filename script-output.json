@@ -1,0 +1,482 @@
+{
+  "skillsDefinition": [
+    {
+      "filename": "basic-data-structures.md",
+      "content": "# Basic data structures\n\nThe ability to recognize the need to use and to use Arrays and Objects in a\nproperly way.\n",
+      "microSkills": ["arrays-1", "arrays-2", "arrays-3", "objects-1", "objects-2"]
+    },
+    {
+      "filename": "basic-form-creation.md",
+      "content": "# Basic form creation\n\nThe ability to develop basic forms that collects user data, like names, numbers\nand text.\n",
+      "microSkills": [
+        "CSS-selectors-1",
+        "DOM-events-1",
+        "DOM-events-2",
+        "DOM-manipulation-1",
+        "DOM-manipulation-2",
+        "form-html-1",
+        "semantic-html-1",
+        "semantic-html-2"
+      ]
+    },
+    {
+      "filename": "cloud-based-authentication-firebase-auth.md",
+      "content": "# Cloud based authentication firebase auth\n\nThe ability to authenticate and register users in a webapp using a cloud based system like Firebas auth.\n",
+      "microSkills": ["firebase-authentication-1"]
+    },
+    {
+      "filename": "cloud-based-persistance-firebase.md",
+      "content": "# Cloud based persistance Firebase\n\nThe ability to persist data using Firebase tools.\n",
+      "microSkills": ["firebase-firestore-1", "firebase-real-time-database-1"]
+    },
+    {
+      "filename": "collaborative-version-control-system.md",
+      "content": "# Collaborative version control system\n\nThe ability to use a version control system to work in groups.\n",
+      "microSkills": ["git-1", "git-2", "github-1", "github-2"]
+    },
+    {
+      "filename": "crud-functions.md",
+      "content": "# CRUD functions\n\nThe ability to understand and apply the four basic functions of persistent storage.\n",
+      "microSkills": ["firebase-firestore-1", "firebase-real-time-database-1"]
+    },
+    {
+      "filename": "data-driven-interfaces.md",
+      "content": "# Data-driven interfaces\n\nThe ability to use understand and develop an interface that is a function of\ndata.\n",
+      "microSkills": [
+        "arrays-1",
+        "arrays-2",
+        "arrays-3",
+        "DOM-manipulation-3",
+        "logical-operators-2",
+        "objects-1",
+        "objects-2",
+        "semantic-html-3",
+        "string-manipulation-2",
+        "string-manipulation-3"
+      ]
+    },
+    {
+      "filename": "functional-programming-fundamentals.md",
+      "content": "# Functional programming fundamentals\n\nThe ability to understand and explain functional programming fundamentals like\n`pure functions` and `side-effects`.\n",
+      "microSkills": ["flow-control-2", "flow-control-3", "functions-2", "functions-3"]
+    },
+    {
+      "filename": "graphic-user-interface.md",
+      "content": "# Graphic user interface (GUI)\n\nThis is the ability to understand and to develop a graphic user interface\nwhich with the user can interact.\n",
+      "microSkills": [
+        "CSS-selectors-1",
+        "CSS-styling-1",
+        "DOM-events-1",
+        "DOM-manipulation-1",
+        "semantic-html-1"
+      ]
+    },
+    {
+      "filename": "interface-library-react.md",
+      "content": "# Interface library: React\n\nThe ability to use the React interface library effectively to create a complete web application.\n",
+      "microSkills": [
+        "react-components-1",
+        "react-components-2",
+        "react-components-3",
+        "react-components-4",
+        "react-router-1",
+        "react-tools-1"
+      ]
+    },
+    {
+      "filename": "javascript-asynchrony.md",
+      "content": "# JavaScript asynchrony\n\nThe ability to understand and use JavaScript's event loop\n",
+      "microSkills": [
+        "callback-functions-1",
+        "callback-functions-2",
+        "node-js-2",
+        "node-js-3",
+        "promises-1",
+        "promises-2",
+        "recursion-2"
+      ]
+    },
+    {
+      "filename": "mathematical-problem-solving.md",
+      "content": "# Mathematical problem solving\n\nThe ability to resolve mathematical operations using JavaScript.\n",
+      "microSkills": ["mathematical-operators-1", "mathematical-operators-2"]
+    },
+    {
+      "filename": "module-authorship.md",
+      "content": "# Module authorship\n\nThe ability to author a module in a standard way.\n",
+      "microSkills": ["package-json-1", "package-json-2"]
+    },
+    {
+      "filename": "node-js-introduction.md",
+      "content": "# NodeJS-introduction\n\nThe ability to understand the basic concepts of NodeJS.\n",
+      "microSkills": ["node-js-1", "node-js-2", "node-js-3"]
+    },
+    {
+      "filename": "offline-first.md",
+      "content": "# Offline first\n\nThe ability to design and build a web application that can be used without Internet connection.\n",
+      "microSkills": ["progressive-web-application-1"]
+    },
+    {
+      "filename": "programming-fundamentals.md",
+      "content": "# Entender los fundamentos de programación.\n\nThe ability to give instructions to a computer in a procedural way.\n",
+      "microSkills": [
+        "data-types-1",
+        "data-types-2",
+        "flow-control-1",
+        "functions-1",
+        "logical-operators-1",
+        "string-manipulation-1"
+      ]
+    },
+    {
+      "filename": "recursion-understanding.md",
+      "content": "# Recursion-understanding\n\nThe ability to understand the idea of recursion and how to apply it in real-world examples.\n",
+      "microSkills": ["recursion-1", "recursion-2"]
+    },
+    {
+      "filename": "responsive-web-design.md",
+      "content": "# Diseño web responsivo.\n\nThe ability to adapt a website to a given layout without breaking the user\nexperience.\n",
+      "microSkills": [
+        "css-grid-1",
+        "flexbox-1",
+        "media-queries-1",
+        "media-queries-2",
+        "media-queries-3"
+      ]
+    },
+    {
+      "filename": "router-library-react-router.md",
+      "content": "# Router library: React router\n\nThe ability to use the React router library effectively to create a complete navigation experience in React web application.\n",
+      "microSkills": ["react-router-1"]
+    },
+    {
+      "filename": "single-page-application.md",
+      "content": "# Single page application\n\nThe ability to show views based on URL changes made through the History API.\n",
+      "microSkills": ["history-api-1", "url-protocol-1", "url-protocol-2"]
+    },
+    {
+      "filename": "task-scheduling.md",
+      "content": "# Task scheduling\n\nThe ability to pospone actions (functions) to be executed in the future and the\nability to schedule recurrent tasks at certain intervals.\n",
+      "microSkills": ["functions-1", "scheduling-1"]
+    },
+    {
+      "filename": "terminal-interaction.md",
+      "content": "# Terminal interaction\n\nThe ability to be proficient in the use of a Terminal.\n",
+      "microSkills": ["cli-1", "cli-2"]
+    },
+    {
+      "filename": "test-driven-development-introduction.md",
+      "content": "# Test driven development introduction (Awareness)\n\nThe ability to think of requirements first and to write tests that validate\nthose requirements before writing any functionality.\nUse of unit tests to write down requirements.\n",
+      "microSkills": ["unit-testing-1", "unit-testing-2", "unit-testing-3"]
+    },
+    {
+      "filename": "user-interface-layout.md",
+      "content": "# User interface layout\n\nThe ability to develop a fluid layout that could be indicated by a design file.\n",
+      "microSkills": ["box-model-1", "css-grid-1", "CSS-selectors-2", "flexbox-1"]
+    },
+    {
+      "filename": "version-control-system.md",
+      "content": "# Version control system\n\nThe ability to use a version control system to manage updates and diff to one's\nown work.\n",
+      "microSkills": ["git-1", "github-1", "github-3"]
+    },
+    {
+      "filename": "web-application-deployment.md",
+      "content": "# Web application deployment\n\nThe ability to host a web application.\n",
+      "microSkills": ["github-3"]
+    }
+  ],
+  "microSkillsDefinition": [
+    {
+      "filename": "arrays-1.md",
+      "content": "# arrays-1\n\n- Array structure\n- Array literal\n- Array value bracket notation `example[value]`\n- `Array.length`\n- `Array.push`\n- Array element iteration with an imperative construct, e.g.: `for..of`, `while`\n\n# Skills\n\n- basic-data-structures\n- data-driven-interfaces\n"
+    },
+    {
+      "filename": "arrays-2.md",
+      "content": "# arrays-2\n\n- `Array.concat`\n- `Array.forEach`\n- `Array.map`\n- `Array.filter`\n- `Array.reverse`\n- Differences between `forEach` and `map`\n\n# Skills\n\n- basic-data-structures\n- data-driven-interfaces\n"
+    },
+    {
+      "filename": "arrays-3.md",
+      "content": "# arrays-3\n\n- `Array.find`\n- `Array.includes`\n- `Array.some`\n- `Array.every`\n- `Array.flat`\n- `Array.fill`\n\n# Skills\n\n- basic-data-structures\n- data-driven-interfaces\n"
+    },
+    {
+      "filename": "box-model-1.md",
+      "content": "# box-model-1\n\n- `margin`\n- `padding`\n- `border`\n\n# Skills\n\n- user-interface-layout\n"
+    },
+    {
+      "filename": "callback-functions-1.md",
+      "content": "# callback-functions-1\n\n- callback introduction\n- use of callbacks\n- node-style callbacks\n- return value\n\n# Skills\n\n- javascript-asynchrony\n"
+    },
+    {
+      "filename": "callback-functions-2.md",
+      "content": "# callback-functions-2\n\n- callback declaration\n- callback invocation\n\n# Skills\n\n- javascript-asynchrony\n"
+    },
+    {
+      "filename": "cli-1.md",
+      "content": "# cli-1\n\n- unix introduction\n- shell introduction\n- use unix commands, (ls, mkdir, touch, etc)\n- flags introduction, (git add -m)\n- stdin, stdout, stderr understanding\n\n# Skills\n\n- terminal-interaction\n"
+    },
+    {
+      "filename": "cli-2.md",
+      "content": "# cli-2\n\n- process\n- args\n- npm link\n- npm unlink\n- #!/usr/bin/env node\n\n# Skills\n\n- terminal-interaction\n"
+    },
+    {
+      "filename": "css-grid-1.md",
+      "content": "# css-grid-1\n\n- `display`\n- `grid-template-rows`\n- `grid-template-columns`\n- `grid-template-areas`\n- `grid-template`\n- `grid-gap`\n- `justify-items`\n- `align-items`\n- `justify-content`\n- `align-content`\n- `justify-self`\n- `align-self`\n\n# Skills\n\n- user-interface-layout\n- responsive-web-design\n"
+    },
+    {
+      "filename": "CSS-selectors-1.md",
+      "content": "# CSS-selectors-1\n\n- by tag name\n- by id name\n- by classname\n- by attribute\n\n# Skills\n\n- graphic-user-interface\n- basic-form-creation\n"
+    },
+    {
+      "filename": "CSS-selectors-2.md",
+      "content": "# CSS-selectors-2\n\n- Introduction to pseudo-elements\n- `:hover`\n- `:active`\n- `:focus`\n- `:after`\n- `:before`\n- `:first-letter`\n- `:first-line`\n\n# Skills\n\n- user-interface-layout\n"
+    },
+    {
+      "filename": "CSS-styling-1.md",
+      "content": "# CSS-styling-1\n\n- `color`\n- `background-color`\n- `font-size`\n- `font-family`\n- `border-radius`\n- `height` with pixels and percentages\n- `width` with pixels and percentages\n- `text-align`\n\n# Skills\n\n- graphic-user-interface\n"
+    },
+    {
+      "filename": "data-types-1.md",
+      "content": "# data-types-1\n\n- introduction to primitives\n- `string`\n- `number`\n- `boolean`\n\n# Skills\n\n- programming-fundamentals\n"
+    },
+    {
+      "filename": "data-types-2.md",
+      "content": "# data-types-2\n\n- `null`\n- `undefined`\n- differences between both of them\n\n# Skills\n\n- programming-fundamentals\n"
+    },
+    {
+      "filename": "DOM-events-1.md",
+      "content": "# DOM-events-1\n\n- `eventTarget.addEventListener`\n- `eventTarget.removeEventListener`\n\n# Skills\n\n- graphic-user-interface\n- basic-form-creation\n"
+    },
+    {
+      "filename": "DOM-events-2.md",
+      "content": "# DOM-events-2\n\n- `event.preventDefault`\n- `event.stopPropagation`\n- differences between the both of them\n\n# Skills\n\n- basic-form-creation\n"
+    },
+    {
+      "filename": "DOM-manipulation-1.md",
+      "content": "# DOM-manipulation-1\n\n- `document.getElementById`\n- `document.getElementByClassname`\n- `document.querySelector`\n- `document.querySelectorAll`\n- `element.innerHTML`\n- `element.innerText`\n\n# Skills\n\n- graphic-user-interface\n- basic-form-creation\n"
+    },
+    {
+      "filename": "DOM-manipulation-2.md",
+      "content": "# DOM-manipulation-2\n\n- `parentNode.querySelector`\n- `parentNode.querySelectorAll`\n\n# Skills\n\n- basic-form-creation\n"
+    },
+    {
+      "filename": "DOM-manipulation-3.md",
+      "content": "# DOM-manipulation-3\n\n- `document.createElement`\n- `document.appendChild`\n- `document.insertBefore`\n\n# Skills\n\n- data-driven-interfaces\n"
+    },
+    {
+      "filename": "firebase-authentication-1.md",
+      "content": "# firebase-authentication-1\n\n- TBD\n- introduction to firebase real time database\n- `config`\n- `firebase.initializeApp`\n- `ref`\n- `set`\n- `on value callback`\n- `snapshot`\n- `update`\n- `remove`\n\n# Skills\n\n- cloud-based-authentication-firebase-auth\n"
+    },
+    {
+      "filename": "firebase-firestore-1.md",
+      "content": "# firebase-firestore-1\n\n- TBD\n- introduction to firebase real time database\n- `config`\n- `firebase.initializeApp`\n- `ref`\n- `set`\n- `on value callback`\n- `snapshot`\n- `update`\n- `remove`\n\n# Skills\n\n- cloud-based-persistance-firebase\n- crud-functions\n"
+    },
+    {
+      "filename": "firebase-real-time-database-1.md",
+      "content": "# firebase-real-time-database-1\n\n- introduction to firebase real time database\n- `config`\n- `firebase.initializeApp`\n- `ref`\n- `set`\n- `on value callback`\n- `snapshot`\n- `update`\n- `remove`\n\n# Skills\n\n- cloud-based-persistance-firebase\n- crud-functions\n"
+    },
+    {
+      "filename": "flexbox-1.md",
+      "content": "# flexbox-1\n\n- `display`\n- `flex-direction`\n- `flex-wrap`\n- `justify-content`\n- `align-items`\n- `align-content`\n- `align-self`\n- `flex-basis`\n\n# Skills\n\n- user-interface-layout\n- responsive-web-design\n"
+    },
+    {
+      "filename": "flow-control-1.md",
+      "content": "# flow-control-1\n\n- introduction to imperative programming\n- `if-else`\n- conditional ternary operator\n- for loops\n- `switch`\n\n# Skills\n\n- programming-fundamentals\n"
+    },
+    {
+      "filename": "flow-control-2.md",
+      "content": "# flow-control-2\n\n- introduction to declarative programming\n- `function` as new words added to the language\n\n# Skills\n\n- functional-programming-fundamentals\n"
+    },
+    {
+      "filename": "flow-control-3.md",
+      "content": "# flow-control-3\n\n- introduction to functional programming\n- `function` as pieces of functionality that can be composed into more complex ones\n- pure functions\n- side-effects\n- state management\n- mutability vs immutability\n- single responsibility principle\n\n# Skills\n\n- functional-programming-fundamentals\n"
+    },
+    {
+      "filename": "form-html-1.md",
+      "content": "# form-html-1\n\n- `form`\n- `action`\n- `input`\n- `button`\n- `submit`\n- `textarea`\n\n# Skills\n\n- basic-form-creation\n"
+    },
+    {
+      "filename": "functions-1.md",
+      "content": "# functions-1\n\n- functions as code blocks\n\n# Skills\n\n- programming-fundamentals\n- task-scheduling\n"
+    },
+    {
+      "filename": "functions-2.md",
+      "content": "# functions-2\n\n- return value\n- arguments\n- input and output\n- scope\n\n# Skills\n\n- functional-programming-fundamentals\n"
+    },
+    {
+      "filename": "functions-3.md",
+      "content": "# functions-3\n\n- function declaration vs function invocation\n- function statement vs function expression\n- arrow functions\n- arrow function's lexical scoping\n- higher-order functions\n\n# Skills\n\n- functional-programming-fundamentals\n"
+    },
+    {
+      "filename": "git-1.md",
+      "content": "# git-1\n\n- `git init`\n- `git clone`\n- `git commit`\n- descriptive commit messages (more why less what)\n- `git log`\n- `git remote`\n- `git push`\n\n# Skills\n\n- version-control-system\n- collaborative-version-control-system\n"
+    },
+    {
+      "filename": "git-2.md",
+      "content": "# git-2\n\n- `git checkout`\n- `git pull`\n\n# Skills\n\n- collaborative-version-control-system\n"
+    },
+    {
+      "filename": "github-1.md",
+      "content": "# github-1\n\n- Sign up and configuration\n- Fork\n- GitHub pages\n\n# Skills\n\n- version-control-system\n- collaborative-version-control-system\n"
+    },
+    {
+      "filename": "github-2.md",
+      "content": "# github-2\n\n- pull request\n- issues\n- merge\n- squash\n- rebase\n\n# Skills\n\n- collaborative-version-control-system\n"
+    },
+    {
+      "filename": "github-3.md",
+      "content": "# github-3\n\n- gh-pages\n- Difference between gh-pages / master branch\n\n# Skills\n\n- web-application-deployment\n- version-control-system\n"
+    },
+    {
+      "filename": "history-api-1.md",
+      "content": "# history-api-1\n\n- `history.back`\n- `history.forward`\n- `history.go`\n- `history.pushState`\n- `history.replaceState`\n- `window.onpopstate`\n\n# Skills\n\n- single-page-application\n"
+    },
+    {
+      "filename": "logical-operators-1.md",
+      "content": "# logical-operators-1\n\n- AND operator `&&`\n- OR operator `||`\n- NOT operator `!`\n\n# Skills\n\n- programming-fundamentals\n"
+    },
+    {
+      "filename": "logical-operators-2.md",
+      "content": "# logical-operators-2\n\n- Short circuit evaluation\n- Double NOT `!!`\n- truthiness and falsiness\n\n# Skills\n\n- data-driven-interfaces\n"
+    },
+    {
+      "filename": "mathematical-operators-1.md",
+      "content": "# mathematical-operators-1\n\n- `+`\n- `-`\n- `*`\n- `/`\n- `Math.floor`\n- `Math.ceil`\n- `Math.round`\n\n# Skills\n\n- mathematical-problem-solving\n"
+    },
+    {
+      "filename": "mathematical-operators-2.md",
+      "content": "# mathematical-operators-2\n\n- `%` (remainder)\n- `**` (exponentiation)\n- `++` (increment)\n- `--` (decrement)\n- Unary plus and Unary negation\n- `Math.max`\n- `Math.min`\n- `Math.random`\n- `Math.pow`\n\n# Skills\n\n- mathematical-problem-solving\n"
+    },
+    {
+      "filename": "media-queries-1.md",
+      "content": "# media-queries-1\n\n- meta tag\n- by screen\n- by hover\n\n# Skills\n\n- responsive-web-design\n"
+    },
+    {
+      "filename": "media-queries-2.md",
+      "content": "# media-queries-2\n\n- for print\n- by orientation\n\n# Skills\n\n- responsive-web-design\n"
+    },
+    {
+      "filename": "media-queries-3.md",
+      "content": "# media-queries-3\n\n- `window.matchMedia`\n- `MediaQueryList.addEventListener`\n\n# Skills\n- responsive-web-design\n"
+    },
+    {
+      "filename": "node-js-1.md",
+      "content": "# node-js-1\n\n- introduction to nodejs\n- common-js modules\n- path native module (path)\n- path.isAbsolute\n- path.isRelative\n- path.join\n- path.extname\n\n# Skills\n\n- node-js-introduction\n"
+    },
+    {
+      "filename": "node-js-2.md",
+      "content": "# node-js-2\n\n- filesystem native module (fs)\n- fs.readFile\n- fs.readdir\n- fs.stat\n- stat.isDirectory\n- stat.isFile\n\n# Skills\n\n- node-js-introduction\n- javascript-asynchrony\n"
+    },
+    {
+      "filename": "node-js-3.md",
+      "content": "# node-js-3\n\n- promisify\n\n# Skills\n\n- node-js-introduction\n- javascript-asynchrony\n"
+    },
+    {
+      "filename": "objects-1.md",
+      "content": "# objects-1\n\n- Object structure\n- Object literals\n- Objects as related data abstraction\n- JSON vs JS objects\n\n# Skills\n\n- basic-data-structures\n- data-driven-interfaces\n"
+    },
+    {
+      "filename": "objects-2.md",
+      "content": "# objects-2\n\n- Object property dot notation `example.property`\n- Object property bracket notation `example[property]`\n- Differences between both of them and benefits of each approach\n- `Object.keys`\n- `Object.values`\n\n# Skills\n\n- basic-data-structures\n- data-driven-interfaces\n"
+    },
+    {
+      "filename": "package-json-1.md",
+      "content": "# package-json-1\n\n- introduction to package.json\n- npm init\n- npm install\n- dependencies\n- devDependencies\n- npm main\n\n# Skills\n\n- module-authorship\n"
+    },
+    {
+      "filename": "package-json-2.md",
+      "content": "# package-json-2\n\n- npm scripts\n- npm publish\n- semantic versioning\n\n# Skills\n\n- module-authorship\n"
+    },
+    {
+      "filename": "progressive-web-application-1.md",
+      "content": "# progressive-web-application-1\n\n- Introduction\n- workbox\n- service worker\n- cache\n\n# Skills\n\n- offline-first\n"
+    },
+    {
+      "filename": "promises-1.md",
+      "content": "# promises-1\n\n- promises introduction\n- use a Promise interface like fetch\n- `then`\n- `catch`\n\n# Skills\n\n- javascript-asynchrony\n"
+    },
+    {
+      "filename": "promises-2.md",
+      "content": "# promises-2\n\n- `new Promise`\n- `resolve`\n- `reject`\n\n# Skills\n\n- javascript-asynchrony\n"
+    },
+    {
+      "filename": "react-components-1.md",
+      "content": "# react-components-1\n\n- function component\n- class component\n- props\n- refs\n- jsx\n\n# Skills\n\n- interface-library-react\n"
+    },
+    {
+      "filename": "react-components-2.md",
+      "content": "# react-components-2\n\n- state\n- lifecycle methods\n- constructor\n- super(props)\n\n# Skills\n\n- interface-library-react\n"
+    },
+    {
+      "filename": "react-components-3.md",
+      "content": "# react-components-3\n\n- higher-order components\n- composition\n- children props\n\n# Skills\n\n- interface-library-react\n"
+    },
+    {
+      "filename": "react-components-4.md",
+      "content": "# cli-1\n\n- hooks\n- useState\n- useRef\n- useReducer\n\n# Skills\n\n- interface-library-react\n"
+    },
+    {
+      "filename": "react-router-1.md",
+      "content": "# react-router-1\n\n- route component\n- exact prop\n- redirect prop\n- withRoute\n- default to 404\n\n# Skills\n\n- interface-library-react\n- router-library-react-router\n"
+    },
+    {
+      "filename": "react-tools-1.md",
+      "content": "# react-tools-1\n\n- create-react-app\n- developer-tool plugin\n- hmr\n\n# Skills\n\n- interface-library-react\n"
+    },
+    {
+      "filename": "recursion-1.md",
+      "content": "# recursion-1\n\n- introduction to recursion\n- diff iteration and recursion\n- exit logic\n\n# Skills\n\n- recursion-understanding\n"
+    },
+    {
+      "filename": "recursion-2.md",
+      "content": "# recursion-1\n\n- async recursion\n\n# Skills\n\n- recursion-understanding\n- javascript-asynchrony\n"
+    },
+    {
+      "filename": "scheduling-1.md",
+      "content": "# scheduling-1\n\n- `window.setTimeout`\n- `window.setInterval`\n- Differences between both of them\n- Introduction to the event loop\n\n# Skills\n\n- task-scheduling\n"
+    },
+    {
+      "filename": "semantic-html-1.md",
+      "content": "# semantic-html-1\n\n- `p`\n- `a`\n- headings (`h1`, etc)\n- `div`\n- `span`\n\n# Skills\n\n- graphic-user-interface\n- basic-form-creation\n"
+    },
+    {
+      "filename": "semantic-html-2.md",
+      "content": "# semantic-html-2\n\n- `section`\n- `header`\n- `main`\n- `footer`\n- `aside`\n- When to use `div`s and when to use `section`s\n\n# Skills\n\n- basic-form-creation\n"
+    },
+    {
+      "filename": "semantic-html-3.md",
+      "content": "# semantic-html-3\n\n- Data attributes\n- `alt` attribute in images\n- Introduction to accesibility\n\n# Skills\n\n- data-driven-interfaces\n"
+    },
+    {
+      "filename": "string-manipulation-1.md",
+      "content": "# string-manipulation-1\n\n- concatenation with `+`\n- concatenation with template literals\n\n# Skills\n\n- programming-fundamentals\n"
+    },
+    {
+      "filename": "string-manipulation-2.md",
+      "content": "# string-manipulation-2\n\n- `string.chartAt`\n- strings as Array-like Objects (`'a'[0]`)\n\n# Skills\n\n- data-driven-interfaces\n"
+    },
+    {
+      "filename": "string-manipulation-3.md",
+      "content": "# string-manipulation-3\n\n- `'text'.split`\n- `'text'.concat`\n- `Array.from`\n\n# Skills\n\n- data-driven-interfaces\n"
+    },
+    {
+      "filename": "unit-testing-1.md",
+      "content": "# unit-testing-1\n\n- run already written tests\n- import ready to test code\n- explain what a test is\n\n# Skills\n\n- test-driven-development-introduction\n"
+    },
+    {
+      "filename": "unit-testing-2.md",
+      "content": "# unit-testing-2\n\n- write tests for own app's functionality\n- explain what an assertion is\n- `toBe`\n- `toEqual`\n- differences between `toBe` and `toEqual`\n\n# Skills\n\n- test-driven-development-introduction\n"
+    },
+    {
+      "filename": "unit-testing-3.md",
+      "content": "# unit-testing-3\n\n- TBD\n- `done`\n\n# Skills\n\n- test-driven-development-introduction\n"
+    },
+    {
+      "filename": "url-protocol-1.md",
+      "content": "# url-protocol-1\n\n- use and understand hashbang fragments `!#`\n- URL interface\n\n# Skills\n\n- single-page-application\n"
+    },
+    {
+      "filename": "url-protocol-2.md",
+      "content": "# url-protocol-2\n\n- protocol\n- path\n- port\n- querystring\n\n# Skills\n\n- single-page-application\n"
+    }
+  ]
+}
